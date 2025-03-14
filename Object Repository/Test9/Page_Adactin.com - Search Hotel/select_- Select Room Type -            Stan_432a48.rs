@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select Room Type -            Stan_432a48</name>
+   <tag></tag>
+   <elementGuidId>d6af7b51-41b8-4230-83a3-d45a4f1f1236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#room_type</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='room_type']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#room_type</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b4ef639e-aa97-4a7c-894b-336c2402f4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>room_type</value>
+      <webElementGuid>ccfc9fee-b4a9-4e93-9bb6-d7753b2cf96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>room_type</value>
+      <webElementGuid>31578927-7d8f-4fff-ab22-33d0e4e4edcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search_combobox</value>
+      <webElementGuid>f4d624dc-5751-4744-9b1f-e84c23a83869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            - Select Room Type -
+            Standard
+            Double
+            Deluxe
+            Super Deluxe
+          </value>
+      <webElementGuid>e3e95531-1cbf-4e8f-9372-5d4c3ca4b2a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;room_type&quot;)</value>
+      <webElementGuid>156611e9-e5e9-4e5b-a827-a65ca14d65f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='room_type']</value>
+      <webElementGuid>707b84b7-bd38-465e-af7e-54fd44d459ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_form']/table/tbody/tr[4]/td[2]/select</value>
+      <webElementGuid>b7851adc-3db8-428b-8e6b-9ef3c62cb172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>73ba468d-3dfe-4aa8-805d-6c1cb09d9940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>fa519b04-199f-424e-b2ab-a6eebaffcb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'room_type' and @id = 'room_type' and (text() = '
+            - Select Room Type -
+            Standard
+            Double
+            Deluxe
+            Super Deluxe
+          ' or . = '
+            - Select Room Type -
+            Standard
+            Double
+            Deluxe
+            Super Deluxe
+          ')]</value>
+      <webElementGuid>970854a4-7caf-45f9-8d1c-0b122752150b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

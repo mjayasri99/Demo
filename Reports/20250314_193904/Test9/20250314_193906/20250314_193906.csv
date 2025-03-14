@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test9,Chrome 134.0.6998.35,,,14-03-2025 19:39:27,14-03-2025 19:40:10,42.347s,PASSED
+,,,,,,,
+Test Cases/Test9,Chrome 134.0.6998.35,,,14-03-2025 19:39:29,14-03-2025 19:40:10,41.013s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.35,,,14-03-2025 19:39:30,14-03-2025 19:39:41,11.142s,PASSED
+"navigateToUrl(""https://adactinhotelapp.com/"")",Chrome 134.0.6998.35,,,14-03-2025 19:39:41,14-03-2025 19:39:46,4.669s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.35,,,14-03-2025 19:39:46,14-03-2025 19:39:53,6.989s,PASSED
+"navigateToUrl(""https://adactinhotelapp.com/"")",Chrome 134.0.6998.35,,,14-03-2025 19:39:53,14-03-2025 19:39:57,3.515s,PASSED
+"setText(findTestObject(""Object Repository/Test9/Page_Adactin.com - Hotel Reservation System/input_Username_username""), ""jayasrimannava"")",Chrome 134.0.6998.35,,,14-03-2025 19:39:57,14-03-2025 19:39:58,1.569s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test9/Page_Adactin.com - Hotel Reservation System/input_Password_password""), ""AsGU5CZax2E="")",Chrome 134.0.6998.35,,,14-03-2025 19:39:58,14-03-2025 19:39:59,0.935s,PASSED
+"click(findTestObject(""Object Repository/Test9/Page_Adactin.com - Hotel Reservation System/input_Forgot Password_login""))",Chrome 134.0.6998.35,,,14-03-2025 19:39:59,14-03-2025 19:40:01,1.946s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Test9/Page_Adactin.com - Search Hotel/select_- Select Location -            Sydne_fd1b90""), ""Sydney"", true)",Chrome 134.0.6998.35,,,14-03-2025 19:40:01,14-03-2025 19:40:03,1.988s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Test9/Page_Adactin.com - Search Hotel/select_- Select Hotel -            Hotel Cr_5dfd37""), ""Hotel Creek"", true)",Chrome 134.0.6998.35,,,14-03-2025 19:40:03,14-03-2025 19:40:04,1.468s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Test9/Page_Adactin.com - Search Hotel/select_- Select Room Type -            Stan_432a48""), ""Deluxe"", true)",Chrome 134.0.6998.35,,,14-03-2025 19:40:04,14-03-2025 19:40:06,1.387s,PASSED
+"click(findTestObject(""Object Repository/Test9/Page_Adactin.com - Search Hotel/input_Children per Room_Submit""))",Chrome 134.0.6998.35,,,14-03-2025 19:40:06,14-03-2025 19:40:06,0.570s,PASSED
+"click(findTestObject(""Object Repository/Test9/Page_Adactin.com - Select Hotel/input_Total Price (excl. GST)_cancel""))",Chrome 134.0.6998.35,,,14-03-2025 19:40:06,14-03-2025 19:40:09,2.280s,PASSED
+closeBrowser(),Chrome 134.0.6998.35,,,14-03-2025 19:40:09,14-03-2025 19:40:10,0.988s,PASSED
