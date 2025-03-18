@@ -19,13 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://adactinhotelapp.com/index.php')
 
 WebUI.setText(findTestObject('Object Repository/TC_Login/Page_Adactin.com - Hotel Reservation System/input_Username_username'), 
-    'jayasrimannava')
+    Username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/TC_Login/Page_Adactin.com - Hotel Reservation System/input_Password_password'), 
-    'AsGU5CZax2E=')
+    Password)
 
 WebUI.click(findTestObject('Object Repository/TC_Login/Page_Adactin.com - Hotel Reservation System/input_Forgot Password_login'))
 
