@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Logout,,,,18-03-2025 23:52:19,18-03-2025 23:52:20,1.148s,PASSED
+,,,,,,,
+Test Cases/TC_Logout,,,,18-03-2025 23:52:19,18-03-2025 23:52:20,0.641s,PASSED
+return null,,,,18-03-2025 23:52:20,18-03-2025 23:52:20,0.004s,PASSED
