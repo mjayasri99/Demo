@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 134.0.6998.89,,,25-03-2025 22:22:12,25-03-2025 22:22:33,20.341s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 134.0.6998.89,,,25-03-2025 22:22:13,25-03-2025 22:22:33,19.854s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.89,,,25-03-2025 22:22:13,25-03-2025 22:22:20,6.218s,PASSED
+"navigateToUrl(""https://adactinhotelapp.com/index.php"")",Chrome 134.0.6998.89,,,25-03-2025 22:22:20,25-03-2025 22:22:25,5.486s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Adactin.com - Hotel Reservation System/body_Adactin Launches The Adactin Hotel App_11f320""))",Chrome 134.0.6998.89,,,25-03-2025 22:22:25,25-03-2025 22:22:26,0.759s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Username_username""), ""jayasrimannava"")",Chrome 134.0.6998.89,,,25-03-2025 22:22:26,25-03-2025 22:22:27,1.038s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Password_password""), ""AsGU5CZax2E="")",Chrome 134.0.6998.89,,,25-03-2025 22:22:27,25-03-2025 22:22:28,0.719s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Adactin.com - Hotel Reservation System/td""))",Chrome 134.0.6998.89,,,25-03-2025 22:22:28,25-03-2025 22:22:28,0.448s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Forgot Password_login""))",Chrome 134.0.6998.89,,,25-03-2025 22:22:28,25-03-2025 22:22:29,0.630s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Adactin.com - Search Hotel/a_Logout""))",Chrome 134.0.6998.89,,,25-03-2025 22:22:29,25-03-2025 22:22:31,2.727s,PASSED
+closeBrowser(),Chrome 134.0.6998.89,,,25-03-2025 22:22:31,25-03-2025 22:22:33,1.168s,PASSED

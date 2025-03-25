@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="18.677" tests="1" failures="0" errors="0">
+   <testsuite name="Login" tests="1" failures="0" errors="0" time="18.677" skipped="0" timestamp="25-03-2025T22:21:08" hostname="user - DESKTOP-TJ8KEJF" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\user\\git\\Demo_1\\Reports\\20250325_222059\\Login\\20250325_222059"/>
+         <property name="logFiles" value="C:\\Users\\user\\git\\Demo_1\\Reports\\20250325_222059\\Login\\20250325_222059\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="user - DESKTOP-TJ8KEJF"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 134.0.6998.89"/>
+         <property name="hostAddress" value="192.168.29.214"/>
+         <property name="sessionId" value="08e3ea70d5186e69c75de78622ffa4cc"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="18.103" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[25-03-2025T22:21:09 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+25-03-2025T22:21:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-03-2025T22:21:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-03-2025T22:21:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-03-2025T22:21:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-03-2025T22:21:16 - [TEST_STEP][PASSED] - navigateToUrl("https://adactinhotelapp.com/index.php"): Navigate to 'https://adactinhotelapp.com/index.php' successfully
+
+25-03-2025T22:21:20 - [MESSAGE][PASSED] - Navigate to 'https://adactinhotelapp.com/index.php' successfully
+
+25-03-2025T22:21:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Adactin.com - Hotel Reservation System/body_Adactin Launches The Adactin Hotel App_11f320")): Object: 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/body_Adactin Launches The Adactin Hotel App_11f320' is clicked on
+
+25-03-2025T22:21:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/body_Adactin Launches The Adactin Hotel App_11f320' is clicked on
+
+25-03-2025T22:21:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Username_username"), "jayasrimannava"): Text 'jayasrimannava' is set on object 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Username_username'
+
+25-03-2025T22:21:22 - [MESSAGE][PASSED] - Text 'jayasrimannava' is set on object 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Username_username'
+
+25-03-2025T22:21:22 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Password_password"), "AsGU5CZax2E="): Text ****** has been set on object 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Password_password'
+
+25-03-2025T22:21:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Password_password'
+
+25-03-2025T22:21:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Adactin.com - Hotel Reservation System/td")): Object: 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/td' is clicked on
+
+25-03-2025T22:21:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/td' is clicked on
+
+25-03-2025T22:21:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Forgot Password_login")): Object: 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Forgot Password_login' is clicked on
+
+25-03-2025T22:21:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Adactin.com - Hotel Reservation System/input_Forgot Password_login' is clicked on
+
+25-03-2025T22:21:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Adactin.com - Search Hotel/a_Logout")): Object: 'Object Repository/Login/Page_Adactin.com - Search Hotel/a_Logout' is clicked on
+
+25-03-2025T22:21:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Adactin.com - Search Hotel/a_Logout' is clicked on
+
+25-03-2025T22:21:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-03-2025T22:21:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-03-2025T22:21:08 - [TEST_SUITE][PASSED] - Login: Test Cases/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
